@@ -1,0 +1,33 @@
+body{
+  margin: 0;
+  padding: 10px;
+}
+h1{
+  color: #5f9341;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#text{
+  width: 100%;
+  padding: 10px;
+  box-sizing: border-box;
+  border: 2px solid #5f9341;
+}
+#btn{
+  margin-top: 10px;
+  background-color: #5f9341;
+  color: white;
+  border: none;
+  padding: 5px 30px;
+  font-weight: bold;
+}
+#dlt{
+  margin-left: 10px;
+  background-color: transparent;
+  border: 1px solid #5f9341 ;
+  padding: 5px 20px;
+  font-weight: bold;
+  color:#5f9341;
+}
+ul{
+  list-style-type: lower-roman;
+}

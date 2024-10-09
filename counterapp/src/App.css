@@ -1,0 +1,23 @@
+#box{
+  text-align: center;
+  box-shadow: 1px 1px 2px;
+  padding: 20px;
+  width: 400px;
+  border-radius: 5px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 300px;
+}
+.head{
+  margin-top: 0;
+  color: #5f9341;
+}
+.btn{
+  margin-right: 10px;
+  background-color: #5f9341;
+  color: white;
+  border: none;
+  padding: 5px 30px;
+  font-weight: bold;
+  border-radius: 5px;
+}
